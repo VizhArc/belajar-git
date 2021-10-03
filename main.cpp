@@ -8,7 +8,13 @@ int main()
 	return 0;
 }
 
+
+int aui()
+{
+	return 5;
+
 void test2()
 {
 	std::cout << "Test2" << std::endl;
+
 }
