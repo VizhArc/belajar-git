@@ -12,7 +12,7 @@ int main()
 int aui()
 {
 	return 5;
-
+}
 void test2()
 {
 	std::cout << "Test2" << std::endl;
